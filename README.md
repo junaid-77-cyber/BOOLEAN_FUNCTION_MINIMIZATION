@@ -1,6 +1,8 @@
-# BOOLEAN_FUNCTION_MINIMIZATION
+# NAME: JUNAID SARDAR S
+# REG NO. 24003934
+# EXP NO.2 BOOLEAN_FUNCTION_MINIMIZATION
 
-**AIM:**
+# AIM:
 
 To implement the given logic function verify its operation in Quartus using Verilog programming.
 
@@ -8,17 +10,13 @@ F1= A’B’C’D’+AC’D’+B’CD’+A’BCD+BC’D
 
 F2=xy’z+x’y’z+w’xy+wx’y+wxy
 
-**Equipment Required:**
+# Equipment Required:
 
 Hardware – PCs, Cyclone II , USB flasher
 
-**Software – Quartus prime**
+# Software – Quartus prime
 
-**Theory**
-
-**Logic Diagram**
-
-**Procedure**
+# Procedure
 
 1.	Type the program in Quartus software.
 
@@ -31,22 +29,40 @@ Hardware – PCs, Cyclone II , USB flasher
 5.	For different input combinations generate the timing diagram.
 
 
-**Program:**
+# Program:
 
 /* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
 
-Developed by: RegisterNumber:*/
+
+![Screenshot 2024-11-28 111550](https://github.com/user-attachments/assets/d011eff5-c807-4d67-8d98-ef88f2966140)
 
 
-**RTL realization**
+# RTL realization Output:
 
-**Output:**
 
-**RTL**
+![Screenshot 2024-11-28 111539](https://github.com/user-attachments/assets/4dedde4d-8fe2-44cc-bc04-98e65e8d32af)
 
-**Timing Diagram**
 
-**Result:**
+# Tabulation:
+1. Truth Table for F1= A’B’C’D’+AC’D’+B’CD’+A’BCD+BC’D
+
+
+![Screenshot 2024-12-01 105139](https://github.com/user-attachments/assets/3cd5d373-6e84-4ee3-ad52-116b6cffc269)
+
+
+2. Truth Table for F2=xy’z+x’y’z+w’xy+wx’y+wxy
+
+
+![Screenshot 2024-12-01 105342](https://github.com/user-attachments/assets/722d1d26-3c77-46f1-af76-1f85cee2eb6c)
+
+
+# Timing Diagram:
+
+
+![Screenshot 2024-11-28 115427](https://github.com/user-attachments/assets/849390c7-f004-4084-9e22-70ce8aaf622a)
+
+
+# Result:
 
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
 
